@@ -1,6 +1,8 @@
 import React from "react"
 import { Link } from "gatsby"
 
+import logo from './logo_small.png'
+
 const Layout = props => {
   const { title, backgroundImage, children } = props
   const [toggleNav, setToggleNav] = React.useState(false)
@@ -39,7 +41,7 @@ const Layout = props => {
                 <Link to={`/`}>Home</Link>
               </li>}
               <li className="nav-about" role="menuitem">
-                <Link to={`/about`}>O mnie</Link>
+                <Link to={`https://erdem.pl/pages/about`}>O mnie</Link>
               </li>
               {/*<li className="nav-elements" role="menuitem">*/}
               {/*  <Link to={`/elements`}>Elements</Link>*/}
@@ -51,6 +53,7 @@ const Layout = props => {
           </nav>
           <div className="site-head-center">
             <Link className="site-head-logo" to={`/`}>
+              <img src={logo} alt="logo"/>
               {title}
             </Link>
           </div>

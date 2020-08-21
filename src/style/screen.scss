@@ -229,7 +229,9 @@ body {
 
 .site-head-logo {
   flex-shrink: 0;
-  display: block;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   padding: 10px;
   color: $color-body-font;
   font-size: 2.1rem;
@@ -252,7 +254,17 @@ body {
   display: block;
   margin-top: 2px;
   width: auto;
-  height: 28px;
+  height:  48px;
+}
+
+@media (max-width: 850px) {
+  .site-head-logo {
+    display: block;
+  }
+
+  .site-head-logo img {
+    display: none;
+  }
 }
 
 .site-head-right {
