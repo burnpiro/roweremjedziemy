@@ -1,5 +1,6 @@
 import React from "react"
 import { graphql, StaticQuery } from "gatsby"
+import Img from "gatsby-image/index";
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -24,6 +25,10 @@ const BlogIndex = ({ data }, location) => {
       {data.site.siteMetadata.description && (
         <header className="page-head">
           <h2 className="page-head-title">
+            <Img
+              fluid={data.logo.childImageSharp.fluid}
+              className="kg-image"
+            />
             {data.site.siteMetadata.description}
           </h2>
         </header>
@@ -51,6 +56,15 @@ const indexQuery = graphql`
       siteMetadata {
         title
         description
+      }
+    }
+    logo: file(
+      relativePath: { eq: "logo_large.png" }
+    ) {
+      childImageSharp {
+        fluid(maxWidth: 1360) {
+          ...GatsbyImageSharpFluid
+        }
       }
     }
     allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {

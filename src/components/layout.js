@@ -35,17 +35,17 @@ const Layout = props => {
           </a>
           <nav id="swup" className="site-head-left">
             <ul className="nav" role="menu">
-              {/* <li className="nav-home nav-current" role="menuitem">
+              {<li className="nav-home nav-current" role="menuitem">
                 <Link to={`/`}>Home</Link>
-              </li> */}
+              </li>}
               <li className="nav-about" role="menuitem">
-                <Link to={`/about`}>About</Link>
+                <Link to={`/about`}>O mnie</Link>
               </li>
-              <li className="nav-elements" role="menuitem">
-                <Link to={`/elements`}>Elements</Link>
-              </li>
+              {/*<li className="nav-elements" role="menuitem">*/}
+              {/*  <Link to={`/elements`}>Elements</Link>*/}
+              {/*</li>*/}
               <li className="nav-tags" role="menuitem">
-                <Link to={`/tags`}>Tags</Link>
+                <Link to={`/tags`}>Tagi</Link>
               </li>
             </ul>
           </nav>
@@ -57,7 +57,7 @@ const Layout = props => {
           <div className="site-head-right">
             <div className="social-links">
               <a
-                href="https://www.facebook.com"
+                href="https://www.facebook.com/pirokemal/"
                 title="Facebook"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -65,7 +65,7 @@ const Layout = props => {
                 Facebook
               </a>
               <a
-                href="https://twitter.com"
+                href="https://twitter.com/burnpiro"
                 title="Twitter"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -73,7 +73,7 @@ const Layout = props => {
                 Twitter
               </a>
               <a
-                href="https://github.com/jooplaan/gatsby-london-night-and-day"
+                href="https://github.com/burnpiro"
                 title="GitHub"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -90,7 +90,7 @@ const Layout = props => {
         </div>
       </main>
       <footer className="site-foot">
-        &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link> &mdash;
+        &copy; 2012 - {new Date().getFullYear()} <Link to={`/`}>{title}</Link> &mdash;
         Built with{" "}
         <a
           href="https://gatsbyjs.org"
