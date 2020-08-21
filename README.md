@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="80" />
-  </a>
-</p>
+![Logo](./content/assets/logo_small.png)
 
 <h1 align="center">
   Rowerem Jedziemy | Blog
