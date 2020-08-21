@@ -1,7 +1,7 @@
 module.exports = {
-  name: 'Rowerem Jedziemy | blog',
+  name: 'Rowerem Jedziemy | Blog',
   shortName: '',
-  description: 'blog o podróżowaniu i nie tylko',
+  description: 'Blog o podróżowaniu i nie tylko',
   url: 'https://roweremjedziemy.pl', // Domain of your site without prefix!
   prefix: '/',
   author: 'Kemal Erdem',
