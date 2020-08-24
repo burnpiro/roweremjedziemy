@@ -58,7 +58,7 @@ Czy napisałem już, że im bardziej na północ, tym lepsza droga? Oczywiście 
 
 ![image](./Image023.JPG)
 
-![image](./Image017.JPG)
+<img src="./Image017.JPG" />
 
 Na dodatek jeszcze czasami leje, ale to w górach normalne. 
 
