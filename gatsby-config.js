@@ -96,8 +96,9 @@ module.exports = {
         name: siteConfig.name,
         short_name: siteConfig.shortName,
         start_url: siteConfig.prefix,
+        lang: `pl`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#1f9c2d`,
         display: `minimal-ui`,
         icon: `content/assets/logo_small.png`,
       },
@@ -106,5 +107,6 @@ module.exports = {
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
     'gatsby-plugin-sass',
+    `gatsby-plugin-sitemap`,
   ],
 }
