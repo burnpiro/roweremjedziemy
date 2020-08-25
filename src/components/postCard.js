@@ -1,19 +1,13 @@
 import React, { Component } from "react";
 import { Link } from "gatsby"
 import Tags from "./tag"
+import Img from "gatsby-image";
 
 export default props => (
   <article
     className={`post-card ${props.count % 3 === 0 && `post-card-large`} ${
       props.postClass
     } ${props.node.frontmatter.thumbnail ? `with-image` : `no-image`}`}
-    style={
-      props.node.frontmatter.thumbnail && {
-        backgroundImage: `url(${
-          props.node.frontmatter.thumbnail.childImageSharp.fluid.src
-        })`,
-      }
-    }
   >
       {
         props.node.frontmatter.thumbnail
@@ -63,6 +57,10 @@ class ContentWithImage extends Component {
     const{props}=this.props;
     return (
       <Link to={props.node.fields.slug} className="post-card-link">
+        <Img
+          fluid={props.node.frontmatter.thumbnail.childImageSharp.fluid}
+          className="post-card-image"
+        />
         <div className="post-card-content">
           <h2 className="post-card-title">
             {props.node.frontmatter.title || props.node.fields.slug}
