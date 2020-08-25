@@ -2,6 +2,9 @@ import React from "react"
 import { Link } from "gatsby"
 
 import logo from './logo_small.png'
+import gh from './github.png'
+import fb from './fb.png'
+import strava from './strava.png'
 
 const Layout = props => {
   const { title, backgroundImage, children } = props
@@ -37,9 +40,9 @@ const Layout = props => {
           </a>
           <nav id="swup" className="site-head-left">
             <ul className="nav" role="menu">
-              {<li className="nav-home nav-current" role="menuitem">
+              <li className="nav-home" role="menuitem">
                 <Link to={`/`}>Home</Link>
-              </li>}
+              </li>
               <li className="nav-about" role="menuitem">
                 <Link to={`https://erdem.pl/pages/about`}>O mnie</Link>
               </li>
@@ -65,15 +68,16 @@ const Layout = props => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Facebook
+                <img src={fb} aria-label="Facebook" alt="Facebook"/>
               </a>
               <a
-                href="https://twitter.com/burnpiro"
-                title="Twitter"
+                href="https://www.strava.com/athletes/24062720"
+                title="Strava"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Twitter
+                <img src={strava} aria-label="Strava" alt="Strava" />
+
               </a>
               <a
                 href="https://github.com/burnpiro"
@@ -81,7 +85,8 @@ const Layout = props => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                GitHub
+                <img src={gh} aria-label="GitHub" alt="GitHub" />
+
               </a>
             </div>
           </div>
