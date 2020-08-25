@@ -3,6 +3,7 @@ title: Słowenia Cz 3 - Balaton, Chorwacja i w końcu Słowenia
 slug: cz-3-balaton-chorwacja-i-w-koncu-slowenia
 date: "2012-07-17"
 thumbnail: ./Image037.jpg
+category: slovenia
 tags: [wyjazdy, slowenia, relacja]
 description: Odwiedziny najbardziej znanego jeziora na Węgrzech. Przejazd przez Chorwację i długo wyczekiwana Słowenia.
 ---

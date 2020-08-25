@@ -3,6 +3,7 @@ title: UK Cz 5 - Cambridge i centralna Anglia
 slug: cambridge-i-centralna-anglia
 date: "2014-07-19"
 thumbnail: ./image4.jpeg
+category: uk
 tags: [wyjazdy, wielka-brytania, relacja]
 description: Dzień aby się odchamić czyli Uniwersytet Cambridge i las Robin Hooda
 ---

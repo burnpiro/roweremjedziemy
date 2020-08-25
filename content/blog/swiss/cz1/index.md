@@ -3,6 +3,7 @@ title: Szwajcaria Cz 1 - Czeska gościnność, bezdomni i smok
 slug: czeska-goscinnosc-bezdomni-i-smok
 date: "2013-07-11"
 thumbnail: ./swiss001.jpg
+category: swiss
 tags: [wyjazdy, szwajcaria, relacja]
 description: Co może się wydarzyć w Czechach? Więcej niż się spodziewałem. Nie ma do jak doświadczyć czeskiej gościnności oraz czeskiej ciekawości.
 ---

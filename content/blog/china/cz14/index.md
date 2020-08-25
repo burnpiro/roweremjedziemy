@@ -3,6 +3,7 @@ title: Chiny - Nie jesteś muzułmaninem!!!
 slug: nie-jestes-muzulmaninem
 date: "2015-07-24"
 thumbnail: ./Image049.jpg
+category: china
 tags: [wyjazdy, chiny, relacja]
 description: Udało się dojechać do miasta, kupić wodę u zostać wyrzuconym z jednego sklepu z powodu braku wiary.
 ---

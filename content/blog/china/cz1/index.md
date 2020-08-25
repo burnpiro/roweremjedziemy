@@ -3,6 +3,7 @@ title: Chiny - Podróż która mogła zakończyć się jeszcze przed rozpoczęci
 slug: podroz-ktora-mogla-zakonczyc-sie-jeszcze-przed-rozpoczeciem
 date: "2015-07-11"
 thumbnail: ./Image0.jpg
+category: china
 tags: [wyjazdy, chiny, relacja]
 description: Podobno każdego dnia człowiek uczy się nowych rzeczy. Na początku tego wyjazdu dowiedziałem się aby nie wierzyć przewoźnikom i zostawiać sobie dużo zapasu.
 ---

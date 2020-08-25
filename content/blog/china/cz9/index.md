@@ -3,6 +3,7 @@ title: Chiny - Tian Shan i nienaturalnie prosta droga
 slug: tian-shan-i-nienaturalnie-prosta-droga
 date: "2015-07-19"
 thumbnail: ./Image019.jpg
+category: china
 tags: [wyjazdy, chiny, relacja]
 description: Podjazd i zjazd z pasma górskiego Tian Shan oraz pierwsze miasto widmo.
 ---

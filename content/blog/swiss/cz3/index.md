@@ -3,6 +3,7 @@ title: Szwajcaria Cz 3 - Drogi donikąd, rosyjscy kierowcy i kraj stworzony dla 
 slug: drogi-donikad-rosyjscy-kierowcy-i-kraj-stworzony-dla-rowerzystow
 date: "2013-07-15"
 thumbnail: ./Image008.jpg
+category: swiss
 tags: [wyjazdy, szwajcaria, relacja]
 description: Ostatecznie udało się wyjechać z jednego niemieckojęzycznego kraju i wjechać do drugiego. Tym razem dużo przyjaźniej nastawionego.
 ---

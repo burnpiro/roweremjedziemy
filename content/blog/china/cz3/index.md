@@ -3,6 +3,7 @@ title: Chiny - Podróż drogą widmo i pułapki na kierowców
 slug: podroz-droga-widmo
 date: "2015-07-13"
 thumbnail: ./Image14.jpeg
+category: china
 tags: [wyjazdy, chiny, relacja]
 description: Nie zawsze należy słuchać porad miejscowych, czasami można skończyć przebijając się przez odludzia.
 ---

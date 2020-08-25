@@ -3,6 +3,7 @@ title: Słowenia Cz 1 - 3 dni 3 Państwa
 slug: slowenia-cz1-3-dni-3-panstwa
 date: "2012-07-11"
 thumbnail: ./Image001.jpg
+category: slovenia
 tags: [wyjazdy, slowenia, relacja]
 description: Pierwsze dni wyjazdu na Słowenie, na początku przemoczeni i trochę zrezygnowani, ale jedziemy dalej
 ---

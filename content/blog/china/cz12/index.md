@@ -3,6 +3,7 @@ title: Chiny - Chińskie koło
 slug: chinskie-kolo
 date: "2015-07-22"
 thumbnail: ./Image042.jpg
+category: china
 tags: [wyjazdy, chiny, relacja]
 description: No i dojechałem do Aksu, ale żeby być dokładnym, to doszedłem, bo niestety dojechać się nie dało...
 ---

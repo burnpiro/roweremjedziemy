@@ -3,6 +3,7 @@ title: Chiny - Chińscy kierowcy, kultura jazdy i życie na pokaz
 slug: chinscy-kierowcy-kultura-jazdy-i-zycie-na-pokaz
 date: "2015-07-16"
 thumbnail: ./Image28.jpeg
+category: china
 tags: [wyjazdy, chiny, relacja]
 description: Kilka słów o tym jak w chinach się jeździ i jak żyją tutaj ludzie
 ---

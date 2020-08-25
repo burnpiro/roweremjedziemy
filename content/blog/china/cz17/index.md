@@ -3,6 +3,7 @@ title: Chiny - Łuk Shiptona i druga strona Kashgaru
 slug: luk-shiptona-i-druga-strona-kashgaru
 date: "2015-07-27"
 thumbnail: ./Image052.jpg
+category: china
 tags: [wyjazdy, chiny, relacja]
 description: Chińskie "Niebiańskie wrota" oraz jak wygląda ciemna strona życia w Kashgarze
 ---

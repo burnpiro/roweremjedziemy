@@ -3,6 +3,7 @@ title: Kirgistan - państwo przeszłości
 slug: kirgistan-panstwo-przeszlosci
 date: "2015-07-29"
 thumbnail: ./Image001.JPG
+category: china
 tags: [wyjazdy, chiny, relacja]
 description: Kirgistan państwo w przeszłości, jeżeli ktoś chce zobaczyć jak wygląda państwo zatrzymana w czasach przed upadkiem ZSRR, polecam się wybrać.
 ---

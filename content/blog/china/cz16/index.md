@@ -3,6 +3,7 @@ title: Chiny - Koniec Ramadanu
 slug: koniec-ramadanu
 date: "2015-07-26"
 thumbnail: ./Image039.jpg
+category: china
 tags: [wyjazdy, chiny, relacja]
 description: Miałem to szczęście przebywać w mieście muzułmańskim w dniu zakończenia Ramadanu
 ---

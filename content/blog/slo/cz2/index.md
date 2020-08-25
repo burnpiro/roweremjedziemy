@@ -3,6 +3,7 @@ title: Słowenia Cz 2 - Węgry i ich drogi
 slug: cz-2-wegry-i-ich-drogi
 date: "2012-07-14"
 thumbnail: ./Image021.jpg
+category: slovenia
 tags: [wyjazdy, slowenia, relacja]
 description: Węgierskie drogi, ślepe zaułki, Eger i trochę użycia siły, czyli droga przez Węgry
 

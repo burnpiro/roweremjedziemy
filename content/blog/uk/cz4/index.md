@@ -3,6 +3,7 @@ title: UK Cz 4 - Prom i bitwa o Anglię
 slug: prom-i-bitwa-o-anglie
 date: "2014-07-17"
 thumbnail: ./Image010.jpg
+category: uk
 tags: [wyjazdy, wielka-brytania, relacja]
 description: Darmowe łóżko wodne, wyprawa leśna i hołd dla Polaków - czyli pierwszy dzień na wyspach
 ---

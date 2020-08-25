@@ -3,6 +3,7 @@ title: Szwajcaria Cz 4 - Droga, tunel i nowa przyjaciółka
 slug: droga-tunel-i-nowa-przyjaciolka
 date: "2013-07-17"
 thumbnail: ./Image028.jpg
+category: swiss
 tags: [wyjazdy, szwajcaria, relacja]
 description: To, że Szwajcaria jest ładna słyszeli wszyscy, ale niektóre rozwiązania są naprawdę świetne, zobaczycie na przykład tunel specjalnie dla rowerzystów.
 ---

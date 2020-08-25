@@ -3,6 +3,7 @@ title: Szwajcaria Cz 2 - Niemcy i pierwszy wypadek w podróżach
 slug: niemcy-i-pierwszy-wypadek-w-podrozach
 date: "2013-07-13"
 thumbnail: ./Image005.jpg
+category: swiss
 tags: [wyjazdy, szwajcaria, relacja]
 description: Obudziłem się w rowie... tak przynajmniej można to ująć, ale pierwszy raz w życiu doświadczyłem, co to znaczy stracić świadomość na chwilę. No ale tak obudziłem się w rowie.
 ---

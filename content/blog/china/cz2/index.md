@@ -3,6 +3,7 @@ title: Chiny - Pierwsze kilometry w Kazachstanie
 slug: pierwsze-kilometry-w-kazachstanie
 date: "2015-07-12"
 thumbnail: ./Image8.jpeg
+category: china
 tags: [wyjazdy, chiny, relacja]
 description: O tym jak łatwo dogadać się nie znając języka czyli pierwsze spotkanie z "tubylcami" w Kazachstanie
 ---

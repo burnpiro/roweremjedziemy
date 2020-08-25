@@ -3,6 +3,7 @@ title: Słowenia Cz 4 - Cel podróży, Włochy i Adriatyk
 slug: cz-4-cel-podrozy-wlochy-i-adriatyk
 date: "2012-07-19"
 thumbnail: ./Image064.jpg
+category: slovenia
 tags: [wyjazdy, slowenia, relacja]
 description: Zwiedzanie Ljubljany, droga przez Słowenię i Włochy.
 

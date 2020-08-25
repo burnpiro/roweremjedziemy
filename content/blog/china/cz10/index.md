@@ -3,6 +3,7 @@ title: Chiny - Wody!!!
 slug: wody
 date: "2015-07-20"
 thumbnail: ./Image029.jpg
+category: china
 tags: [wyjazdy, chiny, relacja]
 description: O tym jak kończy się woda no i małym bum bum...
 ---

@@ -3,6 +3,7 @@ title: UK Cz 2 - W krainie deszczu
 slug: w-krainie-deszczu
 date: "2014-07-13"
 thumbnail: ./Image002.jpg
+category: uk
 tags: [wyjazdy, wielka-brytania, relacja]
 description: Kolejne dwa dni jazdy w deszczu, leśny stwór i sposób na bolące kolano.
 

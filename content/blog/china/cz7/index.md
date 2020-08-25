@@ -3,6 +3,7 @@ title: Chiny - Sinciang
 slug: sinciang
 date: "2015-07-17"
 thumbnail: ./Image33.jpeg
+category: china
 tags: [wyjazdy, chiny, relacja]
 description: Przejazd przez Sinciang czyli jeden z ładniejszych i bardziej dzikich rejonów Chin.
 ---

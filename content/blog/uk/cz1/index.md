@@ -3,6 +3,7 @@ title: UK Cz 1 - Spóźniony wyjazd
 slug: spozniony-wyjazd
 date: "2014-07-11"
 thumbnail: ./1920.jpeg
+category: uk
 tags: [wyjazdy, wielka-brytania, relacja]
 description: Ponad 3 godziny poślizgu... tak właśnie rozpoczął się mój wyjazd do Wielkiej Brytanii. Pogoda sprzyjała i w bardzo krótkim czasie jechałem już po Niemczech.
 

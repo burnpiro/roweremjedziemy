@@ -3,6 +3,7 @@ title: Chiny - Drogi, jazda po cemencie i nakaz trąbienia
 slug: drogi-jazda-po-cemencie-i-nakaz-trabienia
 date: "2015-07-18"
 thumbnail: ./Image008.jpg
+category: china
 tags: [wyjazdy, chiny, relacja]
 description: Widzieliście kiedyś nakaz trąbienia? Ja też nie. Dalszy ciąg podróży przez Sinciang.
 ---

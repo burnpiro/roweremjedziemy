@@ -3,6 +3,7 @@ title: Chiny - Bishkek - bezbarwne miasto
 slug: bishkek-bezbarwne-miasto
 date: "2015-07-30"
 thumbnail: ./Image031.JPG
+category: china
 tags: [wyjazdy, chiny, relacja]
 description: Polaków spotkasz nawet na końcu świata. Nawet jeżeli końcem świata jest stolica Kirgistanu.
 ---

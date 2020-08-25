@@ -3,6 +3,7 @@ title: Dlaczego rowerzysta-podróżnik nie może przytyć w podróży?
 slug: dlaczego-rowerzysta-podroznik-nie-moze-przytyc-w-podrozy
 date: "2014-05-19"
 thumbnail: ./Image5.jpeg
+category: porady
 tags: [wyjazdy, porady, jedzenie]
 description: Kilka słów na temat tego, dlaczego zawsze wracając z wyjazdu, doświadczysz spadku masy ciała.
 ---

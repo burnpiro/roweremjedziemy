@@ -2,6 +2,7 @@
 title: Chiny - Co się stanie gdy źle oszacujemy trasę
 slug: co-sie-stanie-gdy-zle-oszacujemy-trase
 date: "2015-07-23"
+category: china
 thumbnail: ./Image045.jpg
 tags: [wyjazdy, chiny, relacja]
 description: Podczas każdej podróży dzień polega mniej więcej na oszacowaniu trasy miejsc w których możemy się zatrzymać itp. Czasami możemy się jednak pomylić.

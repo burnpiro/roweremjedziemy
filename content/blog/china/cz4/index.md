@@ -4,6 +4,7 @@ slug: cel-chiny
 date: "2015-07-14"
 thumbnail: ./Image21.jpeg
 tags: [wyjazdy, chiny, relacja]
+category: china
 description: Jak się okazało, nie tylko ja wybrałem złą drogę, poza tym zaczęło się robić gorąco, więc przyśpieszyłem, aby dotrzeć do Chin.
 ---
 

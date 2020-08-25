@@ -3,6 +3,7 @@ title: Chiny - Na granicy się nie żartuje
 slug: na-granicy-sie-nie-zartuje
 date: "2015-07-15"
 thumbnail: ./Image24.jpeg
+category: china
 tags: [wyjazdy, chiny, relacja]
 description: Granice chińskie są dobrze zabezpieczone i pracują tam poważni ludzie, tak przynajmniej można sądzić na pierwszy rzut oka.
 ---

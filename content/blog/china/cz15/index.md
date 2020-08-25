@@ -3,6 +3,7 @@ title: Chiny - Kashgar
 slug: kashgar
 date: "2015-07-25"
 thumbnail: ./Image001.jpg
+category: china
 tags: [wyjazdy, chiny, relacja]
 description: Po wielkich trudach udało się dojechać do Kashgaru największego miasta na tej pustyni
 ---

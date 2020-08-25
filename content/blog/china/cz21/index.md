@@ -3,6 +3,7 @@ title: Chiny - Almaty - koniec jest również początkiem
 slug: almaty-koniec-jest-rowniez-poczatkiem
 date: "2015-07-31"
 thumbnail: ./Image056.JPG
+category: china
 tags: [wyjazdy, chiny, relacja]
 description: Wszystko się kiedyś musi skończyć. Niestety trochę wcześniej niż się spodziewałem. Oczywiście, należy korzystać z tego co się ma, tak więc postanowiłem zwiedzić Almaty...
 ---

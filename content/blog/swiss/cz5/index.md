@@ -3,6 +3,7 @@ title: Szwajcaria Cz 5 - Determinacja i podjazd pod alpy
 slug: determinacja-i-podjazd-pod-alpy
 date: "2013-07-19"
 thumbnail: ./Image039.jpg
+category: swiss
 tags: [wyjazdy, szwajcaria, relacja]
 description: 60km pod górkę, wielka partia szachów i co jeszcze ciekawego jest w Austrii
 ---

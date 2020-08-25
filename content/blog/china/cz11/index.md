@@ -3,6 +3,7 @@ title: Chiny - Pro rowerzyści w chinach
 slug: pro-rowerzysci-w-chinach
 date: "2015-07-21"
 thumbnail: ./Image034.jpg
+category: china
 tags: [wyjazdy, chiny, relacja]
 description: Wyjazd z gór wiązał się z rozpoczęciem drogi przez pustynie, na szczęście trafiłem po drodze na grupę rowerzystów.
 ---

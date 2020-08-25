@@ -3,6 +3,7 @@ title: Chiny - Ile rzeczy może się nie udać podczas jednego wyjazdu?
 slug: ile-rzeczy-moze-sie-nie-udac-podczas-jednego-wyjazdu
 date: "2015-07-28"
 thumbnail: ./Image072.jpg
+category: china
 tags: [wyjazdy, chiny, relacja]
 description: Gorączka, sprzęt a może blokada na granicy? Ciężko zdecydować co wygra w konkursie na największy problem tego wyjazdu.
 ---

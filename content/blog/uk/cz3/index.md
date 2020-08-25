@@ -3,6 +3,7 @@ title: UK Cz 3 - Zagłębie ruhry - czyli miejsce nie dla rowerzystów
 slug: zaglebie-ruhry-czyli-miejsce-nie-dla-rowerzystow
 date: "2014-07-15"
 thumbnail: ./Image009.jpg
+category: uk
 tags: [wyjazdy, wielka-brytania, relacja]
 description: Przejazd przez zagłębie ruhry, Holandię i część Belgii jednego dnia. Życie staje się lepsze, gdy tylko wyjdzie słońce.
 ---
