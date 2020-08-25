@@ -1,5 +1,4 @@
 import React from "react"
-import _ from "lodash";
 import { Link } from "gatsby";
 import { graphql, StaticQuery } from "gatsby"
 
@@ -16,10 +15,10 @@ const TagIndex = ({ data }) => {
   return (
     <Layout title={siteTitle}>
       <SEO
-        title="Tags"
+        title="Tagi"
       />
       <header className="tag-page-head">
-          <h1 className="page-head-title">Tags({tags.length})</h1>
+          <h1 className="page-head-title">Tagi ({tags.length})</h1>
       </header>
       <div className="tag-container">
         {tags.map( tag => {
@@ -27,7 +26,7 @@ const TagIndex = ({ data }) => {
               <Link
               key={tag}
               style={{ textDecoration: "none" }}
-              to={`/tags/${_.kebabCase(tag)}`}
+              to={`/tags/${tag}`}
               >
               <div className="tag-item">#{tag}</div>
               </Link>

@@ -1,5 +1,4 @@
 const path = require(`path`)
-const _ = require("lodash");
 const { createFilePath } = require(`gatsby-source-filesystem`)
 
 exports.createPages = ({ graphql, actions }) => {
@@ -64,7 +63,7 @@ exports.createPages = ({ graphql, actions }) => {
     // Create tags pages.
     tagSet.forEach(tag => {
       createPage({
-        path: `/tags/${_.kebabCase(tag)}/`,
+        path: `/tags/${tag}/`,
         component: tagPage,
         context: {
           tag

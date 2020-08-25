@@ -1,5 +1,5 @@
 import React from "react"
-import { graphql } from "gatsby"
+import {graphql, Link} from "gatsby"
 import Img from "gatsby-image"
 
 import Layout from "../components/layout"
@@ -33,6 +33,20 @@ class BlogPostTemplate extends React.Component {
           />
 
           <footer className="post-content-footer">
+
+            <div className="tag-container">
+              {post.frontmatter.tags.map( tag => {
+                return(
+                  <Link
+                    key={tag}
+                    style={{ textDecoration: "none" }}
+                    to={`/tags/${tag}`}
+                  >
+                    <div className="tag-item">#{tag}</div>
+                  </Link>
+                )
+              })}
+            </div>
             {/* There are two options for how we display the byline/author-info.
         If the post has more than one author, we load a specific template
         from includes/byline-multiple.hbs, otherwise, we just use the
@@ -62,6 +76,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        tags
         thumbnail {
           childImageSharp {
             fluid(maxWidth: 1360) {

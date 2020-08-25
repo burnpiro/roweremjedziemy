@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import _ from "lodash";
 import { Link } from "gatsby";
 
 class Tags extends Component {
@@ -13,7 +12,7 @@ class Tags extends Component {
             <Link className="post-card-tag-link"
             key={tag}
             // style={{ textDecoration: "none" }}
-            to={`/tags/${_.kebabCase(tag)}`}
+            to={`/tags/${tag}`}
             >
             #{tag}
             </Link>
