@@ -47,8 +47,8 @@
 <url> <loc>https://roweremjedziemy.pl/tags/opony/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://roweremjedziemy.pl/tags/szwajcaria/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://roweremjedziemy.pl/tags/slowenia/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://roweremjedziemy.pl/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://roweremjedziemy.pl/elements/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://roweremjedziemy.pl/About/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://roweremjedziemy.pl/Elements/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://roweremjedziemy.pl/Tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://roweremjedziemy.pl/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://roweremjedziemy.pl/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
