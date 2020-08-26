@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Link } from "gatsby"
-import Tags from "./tag"
+import Tags from "./Tag"
 import Img from "gatsby-image";
 
 export default props => (

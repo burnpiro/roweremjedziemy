@@ -2,10 +2,10 @@ import React from "react"
 import { graphql, StaticQuery } from "gatsby"
 import Img from "gatsby-image/index";
 
-import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Layout from "../components/Layout"
+import SEO from "../components/Seo"
 // import Bio from "../components/bio"
-import PostCard from "../components/postCard"
+import PostCard from "../components/PostCard"
 
 import "../style/normalize.css"
 import "../style/all.scss"
