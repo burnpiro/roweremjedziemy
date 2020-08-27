@@ -4,7 +4,7 @@ slug: prawdopodobnie-nie-wiesz-jak-napompowac-opony
 date: "2014-05-20"
 thumbnail: ./1920.jpg
 category: porady
-tags: [wyjazdy, porady, jedzenie]
+tags: [wyjazdy, porady, opony]
 description: Dlaczego różne opony powinny mieć różne ciśnienie? Jak to zależy od twojej wagi?
 ---
 
