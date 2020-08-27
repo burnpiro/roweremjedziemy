@@ -2,7 +2,7 @@
 title: Jak wybrać opony?
 slug: jak-wybrac-opony
 date: "2014-05-18"
-thumbnail: ./Image1.jpeg
+thumbnail: ./image1.jpeg
 tags: [wyjazdy, porady, opony]
 category: porady
 description: Kilka słów o dobieraniu opon na wyjazd rowerowy. Co wpływa na tarcie? Jakie są typy opon i różne triki rowerzystów.
