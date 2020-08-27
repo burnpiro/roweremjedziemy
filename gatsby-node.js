@@ -1,4 +1,5 @@
 const path = require(`path`)
+const kebabCase = require('lodash.kebabcase')
 const { createFilePath } = require(`gatsby-source-filesystem`)
 
 exports.createPages = ({ graphql, actions }) => {
@@ -80,6 +81,12 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions
 
   if (node.internal.type === `MarkdownRemark`) {
+    const value = createFilePath({ node, getNode })
+    createNodeField({
+      node,
+      name: 'part',
+      value: value,
+    });
 
     if (typeof node.frontmatter.slug !== 'undefined') {
       createNodeField({
@@ -88,12 +95,12 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
         value: `/post/${node.frontmatter.slug}`,
       });
     } else {
-      const value = createFilePath({ node, getNode })
       createNodeField({
         node,
         name: 'slug',
-        value: `/post/${_.kebabCase(node.frontmatter.title)}`,
+        value: `/post/${kebabCase(node.frontmatter.title)}`,
       });
     }
+
   }
 }
