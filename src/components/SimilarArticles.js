@@ -53,7 +53,6 @@ export default (props) => (
         part: getPartData(edge.node.fields.part),
         ...edge.node.frontmatter
       }));
-      console.log(getPartData(currentArticlePart))
 
       // (3.) Use a SimilarArticlesFactory to get my similar articles
       const similarArticles = new SimilarArticlesFactory(
@@ -63,7 +62,6 @@ export default (props) => (
         .setTags(tags)
         .getArticles()
 
-      console.log(similarArticles)
 
       // (4.) Render it
       return (

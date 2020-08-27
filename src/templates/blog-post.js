@@ -8,7 +8,6 @@ import SimilarArticles from "../components/SimilarArticles";
 
 class BlogPostTemplate extends React.Component {
   render() {
-    console.log(this.props.data.markdownRemark)
     const {
       excerpt,
       fields: {

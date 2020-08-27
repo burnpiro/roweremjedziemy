@@ -3,7 +3,6 @@ import { Link } from 'gatsby';
 import Img from 'gatsby-image';
 
 export default ({ slug, thumbnail, title }) => {
-  console.log(slug)
   return (
     <div className="similar-card">
       <Link to={slug} className="similar-card-link">
