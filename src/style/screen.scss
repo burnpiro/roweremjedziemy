@@ -641,6 +641,84 @@ body {
   }
 }
 
+/* Similar Articles
+-----------------------------------------------------------
+ */
+
+.similar-articles {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+}
+
+.similar-card {
+  position: relative;
+  flex: 1 1 50%;
+  margin: 1vh;
+  display: flex;
+  background-size: cover;
+  overflow: hidden;
+  max-height: 200px;
+  min-height: 150px;
+}
+
+
+.similar-card-link {
+  flex: 1 1 auto;
+  display: block;
+}
+
+.similar-card-content {
+  flex: 1 1 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  color: $color-body-font;
+  background: rgba(0, 0, 0, 0.5);
+  opacity: 0.3;
+  transition: opacity 0.5s cubic-bezier(0.33, 0, 0.2, 1);
+}
+
+.similar-card-image {
+  position: relative;
+  height: 100%;
+  max-width: 100%;
+  width: 100%;
+}
+
+.similar-card-title {
+  margin: 0;
+  display: inline-block;
+  font-size: 2.4rem;
+  width: 100%;
+  padding-bottom: 1rem;
+  text-align: center;
+  transition: all 0.3s cubic-bezier(0.33, 0, 0.2, 1);
+}
+
+.similar-card-link:hover .similar-card-content {
+  opacity: 1;
+  transition: opacity 0.3s cubic-bezier(0.33, 0, 0.2, 1);
+}
+
+
+@media (max-width: 850px) {
+  .similar-articles {
+    flex-direction: column;
+    align-items: unset;
+  }
+
+  .similar-card-content {
+    opacity: 1;
+  }
+}
+
 /* Post Content
 /* ---------------------------------------------------------- */
 
