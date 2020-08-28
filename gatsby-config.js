@@ -15,6 +15,12 @@ module.exports = {
   },
   plugins: [
     {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: `UA-66555460-1`,
+      },
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/blog`,
@@ -81,12 +87,6 @@ module.exports = {
         // whitelist: ['whitelist'], // Don't remove this selector
         ignore: ['/ignored.css', 'prismjs/', '/prism.css', 'docsearch.js/'], // Ignore files/folders
         purgeOnly : ['components/', '/main.css', 'bootstrap/'], // Purge only these files/folders
-      },
-    },
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: `UA-66555460-1`,
       },
     },
     `gatsby-plugin-feed`,
