@@ -70,6 +70,16 @@ exports.createPages = ({ graphql, actions }) => {
         }
       });
     });
+    // Create category pages.
+    tagSet.forEach(tag => {
+      createPage({
+        path: `/category/${tag}/`,
+        component: tagPage,
+        context: {
+          tag
+        }
+      });
+    });
 
 
     return null
